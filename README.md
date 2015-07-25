@@ -7,6 +7,8 @@
 
 3.Run source("run_analysis.R"), then it will generate a new file averages_data.txt in your working directory.
 
+## run_analysis.R Steps:
+
 The script run_analysis.R performs the 5 steps described in the course project's definition.
 
 1.First, all the similar data as in X_Train/X_Test, y_train/y_test and subject_train/subject_test is merged using the rbind() function.
